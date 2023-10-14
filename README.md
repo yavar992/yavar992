@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/khanyavar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khanyavar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yavar ali khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yavar ali khan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yavar-ali-khan-b7b1b0201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yavar ali khan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19635059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19635059" height="30" width="40" /></a>
 <a href="https://fb.com/yavar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yavar" height="30" width="40" /></a>
 <a href="https://instagram.com/yavar992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yavar992" height="30" width="40" /></a>
